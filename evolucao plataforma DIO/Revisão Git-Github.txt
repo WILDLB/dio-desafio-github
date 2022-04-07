@@ -1,0 +1,12 @@
+## Nesse módulo revisamos alguns comandos do git.
+
+#git clone : Faz uma cópia do repositório da nuvem para nossa máquina.
+
+#git add . : Adiciona os arquivos para controle de versão local.
+
+#git commit -m "msg" : Adicionar um comentário pertinente a atualização feito no projeto/arquivo, deixando pronto para enviar ao repositório na nuvem.
+
+#git push origin (main/master) : Envia os commit's para o repositório na nuvem.
+
+#git status : Verifica o status do versionamento do projeto. 
+
